@@ -19,7 +19,7 @@ navbar:
   right:
     - text: "Contact me"
       icon: fa-envelope-o
-      href: mailto:YOUREMAIL                    # CHANGE HERE 
+      href: mailto:benedek.danko@helmholtz-muenchen.de                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/dbenedek       # CHANGE HERE 
