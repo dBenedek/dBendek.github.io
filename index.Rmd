@@ -7,7 +7,7 @@ title: |
 htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 ```
 
-- 09.2021 - : PhD student, Research Unit radiation Cytogenetics, Helmholtz Munich, Munich, Germany
+- 09.2021 - : PhD student, Research Unit Radiation Cytogenetics, Helmholtz Munich, Munich, Germany
 - 09.2019 - 07.2021: Biology, bioinformatics MSc student, Eötvös Loránd University, Budapest, Hungary
 - 09.2015 - 06.2019: Biology BSc student, University of Szeged, Szeged, Hungary 
 
