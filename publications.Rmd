@@ -1,0 +1,7 @@
+---
+title: "Publications"
+---
+
+## 2021
+
+- **Benedek Dankó**, Péter Szikora, Tamás Pór, Alexa Szeifert, Endre Sebestyén, SplicingFactory—splicing diversity analysis for transcriptome data, Bioinformatics, Volume 38, Issue 2, 15 January 2022, Pages 384–390, [https://doi.org/10.1093/bioinformatics/btab648](https://doi.org/10.1093/bioinformatics/btab648)
