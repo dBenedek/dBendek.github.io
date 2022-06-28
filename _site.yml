@@ -17,12 +17,14 @@ navbar:
       icon: fa-rss
       href: https://dbenedek.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
-    - text: "Contact me"
-      icon: fa-envelope-o
+    - icon: fa-envelope-o
       href: mailto:benedek.danko@helmholtz-muenchen.de                    # CHANGE HERE 
-    - text: "GitHub"
-      icon: fa-github
-      href: https://github.com/dbenedek       # CHANGE HERE 
+    - icon: fa-github
+      href: https://github.com/dbenedek
+    - icon: fa-twitter
+      href: https://twitter.com/BenedekDanko
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/benedek-danko/
 output:
   html_document:
     theme: default
