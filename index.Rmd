@@ -13,3 +13,4 @@ htmltools::tagList(rmarkdown::html_dependency_font_awesome())
 
 ## Contact:
 <i class="fa fa-envelope-o"></i> benedek.danko (at) helmholtz-munich.de
+
